@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Cristhian Velasquez",
+      "email": "correo@correo.com",
+      "telefono": "12312314",
+      "empresa": "Desarrollo web",
+      "id": 1
+    },
+    {
+      "nombre": "Manuel",
+      "email": "manuel@correo.com",
+      "telefono": "4321415",
+      "empresa": "FrontEnd Developer",
+      "id": 2
+    },
+    {
+      "nombre": "Alex",
+      "email": "alex@correo.com",
+      "telefono": "91828321",
+      "empresa": "FullStack Developer",
+      "id": 3
+    }
+  ]
+}
